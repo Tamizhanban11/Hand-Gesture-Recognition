@@ -61,12 +61,9 @@ We welcome contributions! To contribute:
 - Support dynamic gestures.
 - Integrate voice commands with gestures.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any queries or support, reach out to:
-- Email: your-email@example.com
+- Email:bablunivi2311@gmail.com
 - GitHub Issues
 
 ## Acknowledgments
